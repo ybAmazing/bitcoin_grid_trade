@@ -1,0 +1,12 @@
+GRID_SPAN = 1.0
+GRID_MONEY_HALF = 5.0
+CRITICAL_DIFF = 3.0
+HIGHEST = 0.0
+LOWEST = 100000.0
+LINE_NUM = 8
+TOTAL_PROFIT = 0.0
+
+
+# use input file to dynamic modify the value
+# GRID_MONEY_SPAN = 1.5
+# GRID_BIT_AMOUNT = 0.003
